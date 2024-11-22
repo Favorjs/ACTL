@@ -1,6 +1,6 @@
 /* -------------------------------------------
 
-Name:       Plax
+Name:       Apel
 Version:    1.1
 Author:	    bslthemes
 Website:    https://bslthemes.com/
@@ -822,7 +822,7 @@ preloader
 .mil-preloader {
   width: 100vw;
   height: 100vh;
-  background-color: rgb(242, 116, 87);
+  background-color: #107b5f;
   position: fixed;
   z-index: 999;
   top: 0;
